@@ -1,0 +1,15 @@
+FOCUS FOREST LIB SETUP
+
+Required dependency in pubspec.yaml:
+
+dependencies:
+  flutter:
+    sdk: flutter
+  shared_preferences: ^2.5.3
+
+Optional logo asset:
+assets/logo.png
+
+The current lib compiles without requiring the logo asset because the interface uses a custom painted tree.
+Package name:
+com.focusforest.timer
